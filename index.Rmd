@@ -1,0 +1,15 @@
+---
+title: "9:00 Section"
+output: html_document
+---
+## *Sophia Jensen*
+## *October 18, 2017
+
+Here is some arithmetic:
+
+```{r}
+x<-3
+y<-4
+x-sqrt(y)
+```
+
