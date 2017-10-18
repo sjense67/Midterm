@@ -3,7 +3,7 @@ title: "9:00 Section"
 output: html_document
 ---
 ## *Sophia Jensen*
-## *October 18, 2017
+## *October 18, 2017*
 
 Here is some arithmetic:
 
